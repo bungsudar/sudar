@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // TODO: updated with actual site data
-export const SITE_DOMAIN = 'loige.co'
+export const SITE_DOMAIN = 'sudar-9b1.pages.dev'
 export const SITE_URL = `https://${SITE_DOMAIN}`
 export const SITE_AUTHOR = 'Nauval Sudarmanto'
 export const SITE_TITLE = 'Sudar Blogger'

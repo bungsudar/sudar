@@ -6,7 +6,7 @@ export const SITE_DOMAIN = 'loige.co'
 export const SITE_URL = `https://${SITE_DOMAIN}`
 export const SITE_AUTHOR = 'Nauval Sudarmanto'
 export const SITE_TITLE = 'Sudar Blogger'
-export const SITE_DESCRIPTION = 'Catatan Harian Sudarmanto'
+export const SITE_DESCRIPTION = 'Catatan Harian Nauval Sudarmanto'
 export const SOCIALS = [
   { title: 'BlueSky', url: 'https://bsky.app/profile/loige.co' },
   { title: 'X (Twitter)', url: 'https://twitter.com/loige' },

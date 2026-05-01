@@ -4,9 +4,9 @@
 // TODO: updated with actual site data
 export const SITE_DOMAIN = 'loige.co'
 export const SITE_URL = `https://${SITE_DOMAIN}`
-export const SITE_AUTHOR = 'Luciano Mammino'
-export const SITE_TITLE = 'Luciano Mammino'
-export const SITE_DESCRIPTION = 'Cloud Architect and Fullstack Developer'
+export const SITE_AUTHOR = 'Nauval Sudarmanto'
+export const SITE_TITLE = 'Sudar Blogger'
+export const SITE_DESCRIPTION = 'Catatan Harian Sudarmanto'
 export const SOCIALS = [
   { title: 'BlueSky', url: 'https://bsky.app/profile/loige.co' },
   { title: 'X (Twitter)', url: 'https://twitter.com/loige' },

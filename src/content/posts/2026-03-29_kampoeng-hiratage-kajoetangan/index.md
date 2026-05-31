@@ -4,7 +4,7 @@ slug: kampoeng-hiratage-kajoetangan
 subtitle: Tentang Kampoeng Heritage Malang, dan Keberagaman di Kampung
 date: 2026-03-29T07:23:01.000Z
 updated: 2026-03-29T07:23:01.000Z
-header_img: ./hiratage.jpg
+header_img: ./heritage.jpg
 status: published
 tags:
   - malang

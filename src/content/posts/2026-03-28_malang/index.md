@@ -52,7 +52,7 @@ Disini juga di sediakan Playground yang mana buat kalian kesana dengan anak bisa
 Kalau di luar negeri atau di beberapa tempat wisata di Indonesia, seperti Farm House Lembang terdapat gembok cinta, maka di Malang Skyland ada Bottle of Hope. 
 
 Sesuai namanya, kamu bisa menuliskan harapan kamu di kertas, kemudian memasukkan kertas tersebut ke botol. Setelah itu, kamu bisa menggantungkan atau mengaitkan botol tersebut di tempat yang tersedia. Kalau kamu ingin mencoba, kamu harus membayar sebesar Rp15.000.
-![malang skyland](./malang/skyland6.jpg)
+![malang skyland](./skyland6.jpg)
 Di Malang Skyland terdapat kafe yang memungkinkan kamu untuk bersantai. Malang Skyland menu yang bisa kamu pilih, di antaranya churros, kentang goreng, es krim. 
 
 Setelah selesai liburan, kamu bisa berbelanja di toko souvenir yang ada di Malang Skyland untuk oleh-oleh. Misalnya, keripik apel, sambal balado teri, stik tuna, pia malang, sirup belimbing wuluh. 

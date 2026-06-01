@@ -7,9 +7,9 @@ updated: 2025-12-28T08:10:41.000Z
 header_img: ./blogger.png
 status: published
 tags:
-  - malang
-  - wisata
-  - traveller
+  - cloudflare
+  - hugo
+  - blogger
 description: Alasan Pindah ke Stastic Site Generator cloudflare menggunakan Hugo.
 ---
 

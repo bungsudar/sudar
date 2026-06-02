@@ -1,6 +1,6 @@
 ---
 title: Migrasi dari Blogger ke Site Stastic Generator (SSG) 
-slug: clouflare-page
+slug: cloudflare-page
 subtitle: Mencoba Migrasi ke Hugo Mungkin tau nyaman
 date: 2025-12-28T08:10:41.000Z
 updated: 2025-12-28T08:10:41.000Z

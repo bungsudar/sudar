@@ -1,6 +1,6 @@
 ---
 title: Menghadiri Acara Deklarasi Pemilu Damai di Madiun Bersama PSHT
-slug: deklarasi-pemilu
+slug: pemilu-damai
 subtitle: Berkunjung ke Bumi Kandung PSHT
 date: 2023-11-26T08:50:38+000Z
 updated: 2023-11-26T08:50:38+000Z

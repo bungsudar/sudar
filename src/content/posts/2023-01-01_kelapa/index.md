@@ -21,7 +21,7 @@ Karena momen nya pas tahun baru jadi ya disempatkan untuk keluar karena sudah la
 
 ## Mulai Berangkat Jam 8 Pagi
 
-![Pantai kalapa](./kalapa2.jpg) 
+![pantai kelapa](./kelapa2.jpg)
 
 Karena pantai kelapa sangat jauh dari tempat saya jadi agar tidak kesiangan akhirnya berangkatlah kami pagi - pagi yaitu jam 8 pagi. Kami menggunakan sepeda motor untuk kesana ya karena hanya berlima saja karena mas Eko ajak anak dan istri nya. 
 

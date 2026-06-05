@@ -1,6 +1,6 @@
 ---
 title: Penasaran Dengan Keindahan Air Terjun Ngelirip Tuban Yang Lagi Viral
-slug: sh-terate
+slug: air-terjun-ngelirip
 subtitle: Keindahan dan Mitor Air Terjun Ngelirip Tuban
 date: 2023-09-30T10:02:17.000Z
 updated: 2023-09-30T10:02:17.000Z
@@ -64,7 +64,7 @@ Itulah cerita rakyat yang saya rangkum dari beberapa sumber karena saya sendiri 
 Apabila kalian ingin tahun baruan ke tempat ini sangat lah pas karena tempatnya ini sepi dan tenang
 
 Lanjut Ziarah Makam Syeh di Dekat Air Terjun Ngelirip
-! [aljabbar](./jabbr.jpg) 
+![aljabbar](./jabbr.jpg) 
 
 Ziarah ke Makam Mbah Jabbar dimana letak makam nya pun tidak lah jauh dari air terjun ngelirip ini yaitu berada diatas nya.
 

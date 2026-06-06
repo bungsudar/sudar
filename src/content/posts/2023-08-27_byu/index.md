@@ -3,7 +3,7 @@ title: Pindah Kartu ke Byu Yang Katanya Anak Muda Banget
 slug: kartu-byu
 subtitle: Cara Membeli Kartu Byu Online
 date: 2023-08-27T17:05:17.000Z
-updated: 2023-08-23m7T17:05:17.000Z
+updated: 2023-08-27T17:05:17.000Z
 header_img: ./simcard.jpg
 status: published
 tags:

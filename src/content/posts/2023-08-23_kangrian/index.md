@@ -2,9 +2,9 @@
 title: Pengalaman Membeli Template Blogger di Kangrian.net
 slug: kangrian
 subtitle: Semoga Tidak Menyesal Beli di Kang Rian
-date: 2023-08-26?3T11:02:17.000Z
+date: 2023-08-23T11:02:17.000Z
 updated: 2023-08-23T11:02:17.000Z
-header_img: ./sale.jpeg
+header_img: ./sales.jpg
 status: published
 tags:
   - template

@@ -1,10 +1,10 @@
 ---
 title: Bergabung Grub BlogwalkingAsyik, Bisa Bertemu Senior Blogger
-slug: blogwalking-asyik
+slug: blog-walking-asyik
 subtitle: Banyak ilmu yang di dapat dari GrubBlogWalkingAsik
 date: 2022-07-03T04:54:38.000Z
 updated: 2022-07-03T04:54:38.000Z
-header_img: ./grub.webp
+header_img: ./whatsapp.png
 status: published
 tags:
   - blogger
@@ -45,7 +45,7 @@ Karena semakin lama maka saya tergiur untuk mendapatkan uang dari blog, karena p
 
 Hampir 6 bulan saya gabung JV Adsense dari KurKom ini dimana pendapatan blog saya perbulannya tidak sampai 100 ribu rupiah.
 
-Siapa sih KurKom!! 
+**Siapa sih KurKom!**
 
 Buat yang belum KurKom saya mungkin akan bahas pada artikel selanjutnya, lebih baik lanjutin cerita yang ini saja. 
 
